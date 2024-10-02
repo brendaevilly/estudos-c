@@ -82,12 +82,7 @@
     }
 
     void binarioFracPdecimal (int binF){
-        int pInteira = binF/1;
-        float pFracionada = binF - pInteira;
-
-        int decimalInt = binarioPdecimal (pInteira);
         
-        printf ("\n parte inteira: %d", decimalInt);
     }
 
 
